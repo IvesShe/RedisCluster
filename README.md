@@ -1,4 +1,4 @@
-# Redis Cluster
+# Redis Cluster 集群部署
 
 以單機架設為例，之後若有多機可部署，再記錄多機的差異部分
 
